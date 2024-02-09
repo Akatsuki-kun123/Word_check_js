@@ -1,0 +1,15 @@
+{
+  "name": "new-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "milsymbol": "^2.0.0"
+  }
+}
